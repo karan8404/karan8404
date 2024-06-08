@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan8404&label=Profile%20views&color=0e75b6&style=flat" alt="karan8404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan8404" alt="karan8404" /></a> </p>
+<br/>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVld2w4NDR1eTJ3aTM0dW5iYWNxa2hlamRjdmZobWQ4cjFoOW42cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="230">
 
 - 🔭 I’m currently working on [Minigames](minigames-production.up.railway.app)
 
